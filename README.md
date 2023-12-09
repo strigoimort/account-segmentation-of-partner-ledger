@@ -6,7 +6,7 @@ This repository focuses on the account segmentation of a partner ledger, providi
 
 ## Methodology
 
-The analysis employs a combination of oceanographic data, satellite observations, and climate indices to assess the correlation between ENSO phases and upwelling dynamics. Statistical methods and visualization techniques are utilized to present the findings in a comprehensible manner.
+The analysis utilizes accounting data, partner information, and segmentation criteria to classify and organize ledger entries. Techniques such as data filtering, clustering, or custom rules may be employed to achieve a meaningful segmentation of partner accounts.
 
 ## Data
 

@@ -19,8 +19,7 @@ The analysis employs a combination of oceanographic data, satellite observations
 SQL and Jupyter Notebooks scripts demonstrating the process of account segmentation and illustrating the data processing, analysis, and visualization steps.
 
 ## Results
-
-<br>
+<img src="./img/Account Segmentation of Partner Ledger.jpg" width=100%>
 In the conducted query, the analysis revealed the presence of both payable and receivable balances in the partner ledger. Payable balance signifies funds that the company should disburse, while receivable balance represents funds that the company is expected to receive. Notably, during the 2022 timeframe, only receivable balances were identified. Among the various partners engaged in transactions, it was observed that the partner "Customer Top Up" had the highest receivable balance. This highlights the importance of enhanced monitoring and oversight for transactions involving the "Customer Top Up" partner. It suggests the need for closer scrutiny and improved management practices to ensure effective financial transactions. These insights aim to guide further analysis and decision-making processes related to partner management and financial oversight.
 
 ## License
